@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm when charging</string>
+    <string name="testsound">Test sound</string>
+    <string name="swtichdesc">Turn off/on power tracking</string>
+    <string name="stopalarm">Stop alarm</string>
+</resources>

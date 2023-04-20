@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Будильник при зарядке</string>
+    <string name="testsound">Тестовый звук</string>
+    <string name="swtichdesc">Вкл/откл отслеживание зарядки</string>
+    <string name="stopalarm">Отключить звук</string>
+</resources>
